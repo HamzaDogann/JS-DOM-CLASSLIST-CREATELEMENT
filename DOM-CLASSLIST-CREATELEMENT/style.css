@@ -1,0 +1,26 @@
+#btn1{
+    font-size: 30px;
+    color: purple;
+}
+
+.newclass{
+    font-size: 50px;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.oldclass{
+    font-size: 50px;
+    color: rgb(2, 70, 187);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.yeniclass{
+    font-size: 100px;
+    color: green;
+    transition: 0.5s;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.link-highlight {
+    color: rgb(224, 73, 14);
+}
